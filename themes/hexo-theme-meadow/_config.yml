@@ -1,5 +1,5 @@
 #####
-avatar:
+avatar: https://img0.baidu.com/it/u=3928903079,1184629296&fm=26&fmt=auto
 favicon:
 preload: true #字体预加载
 excerpt_length: 300 #自动生成的摘要长度 建议文章中手动使用 <!--more--> 效果更佳
@@ -60,7 +60,7 @@ menu:
   tags: /tags/ || icon-bookmark
   categories: /categories/ || icon-folder
   archives: /archives/ || icon-archive
-  工具箱: /tools/ || icon-tools
+  tools: /tools/ || icon-tools
   about: /about/ || icon-user
   #gallery: /categories/图集/ || icon-gallery
 
