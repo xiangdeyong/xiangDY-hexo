@@ -29,7 +29,8 @@ footer:
   theme: Theme
   total_views: Total Views
   total_visitors: Total Visitors
-  
+  「CloudBase Webify 提供网站托管服务」: https://webify.cloudbase.net/
+
 counter:
   tags:
     zero: No tags
