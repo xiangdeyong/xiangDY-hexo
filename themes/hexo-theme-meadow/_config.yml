@@ -9,7 +9,7 @@ mourn_mode: false #哀悼模式
 # 主题颜色
 theme_color:
   primary: teal
-  accent: black
+  accent: mdui-color-blue-grey-800
 
 # 搜索
 search:
