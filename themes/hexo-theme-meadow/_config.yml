@@ -8,8 +8,8 @@ mourn_mode: false #哀悼模式
 
 # 主题颜色
 theme_color:
-  primary: teal
-  accent: Blue Grey
+  primary: Blue Grey
+  accent: #607D8B
 
 # 搜索
 search:
