@@ -110,7 +110,7 @@ comment:
   ## Gitalk
   gitalk_client_id: bc56e4c4e16ed36d9c86
   gitalk_client_secret: 58bd601dd20362342494d87a9105da980bcfcb77
-  gitalk_repo: https://github.com/xiangdeyong/xiangDY-hexo
+  gitalk_repo: xiangDY-hexo-comments
   gitalk_owner: xiangdeyong
   gitalk_sid_type: location.pathname
   gitalk_distractionFreeMode: true
