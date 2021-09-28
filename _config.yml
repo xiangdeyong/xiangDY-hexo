@@ -8,7 +8,9 @@ subtitle: ''
 description: "xiangDY's Blog test"
 keywords:
 author: xiangDY
-language: en
+language:
+  - en
+  - zh
 timezone: ''
 
 # URL

@@ -8,7 +8,7 @@ mourn_mode: false #哀悼模式
 
 # 主题颜色
 theme_color:
-  primary: blue-grey
+  primary: indigo
   accent: red
 
 # 搜索
@@ -57,7 +57,7 @@ mermaid:
 # 菜单
 menu:
   home: / || icon-home
-  标签: /tags/ || icon-bookmark
+  tags: /tags/ || icon-bookmark
   categories: /categories/ || icon-folder
   archives: /archives/ || icon-archive
   tools: /tools/ || icon-tools
