@@ -8,7 +8,7 @@ mourn_mode: false #哀悼模式
 
 # 主题颜色
 theme_color:
-  primary: red
+  primary: blue-grey-800
   accent: red
 
 # 搜索
