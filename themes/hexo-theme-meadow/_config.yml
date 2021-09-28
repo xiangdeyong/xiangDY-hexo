@@ -57,7 +57,7 @@ mermaid:
 # 菜单
 menu:
   home: / || icon-home
-  tags: /tags/ || icon-bookmark
+  标签: /tags/ || icon-bookmark
   categories: /categories/ || icon-folder
   archives: /archives/ || icon-archive
   tools: /tools/ || icon-tools
